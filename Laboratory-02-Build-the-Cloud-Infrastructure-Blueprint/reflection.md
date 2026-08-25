@@ -1,0 +1,11 @@
+# Mission Reflection
+
+This laboratory activity helped me understand the different components that make up cloud infrastructure and how they work together. Among the different components, I think compute is one of the most important because it provides the processing power needed to run applications, commands, and services. Without sufficient compute resources, applications would not be able to perform their required tasks effectively. However, compute also depends on other components such as storage, networking, and the operating system to provide a complete working environment.
+
+Linux supports cloud computing by providing a reliable environment for running applications and managing servers. During this laboratory, I used different Linux commands to investigate the cloud server and identify information about its operating system, kernel, CPU, memory, storage, hostname, and network configuration. This practical experience helped me understand how Linux can be used to monitor and manage resources in a cloud environment.
+
+Technical documentation is also important before deploying infrastructure because it provides a clear record of the resources, configurations, and design decisions involved in a system. Proper documentation helps cloud engineers understand the planned infrastructure, communicate with other team members, and identify possible problems before deployment. It also makes it easier to maintain and troubleshoot the infrastructure in the future.
+
+During this laboratory, I learned new skills such as using Linux commands to investigate a cloud server, identifying cloud infrastructure components, comparing services offered by AWS, Microsoft Azure, and Google Cloud Platform, and creating a simple cloud infrastructure diagram. I also improved my Markdown and GitHub skills by organizing my laboratory files and documentation into a structured portfolio.
+
+Finally, this mission improved my GitHub portfolio by adding a complete cloud infrastructure project with Markdown documentation, screenshots, research, and an architecture diagram. Overall, the laboratory gave me practical experience with Linux, cloud infrastructure, technical documentation, and GitHub, which helped strengthen my understanding of the basic concepts of cloud computing.
