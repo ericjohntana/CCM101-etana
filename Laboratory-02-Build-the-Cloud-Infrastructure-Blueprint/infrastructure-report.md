@@ -2,151 +2,143 @@
 
 ## 1. Operating System
 
-PRETTY_NAME="Ubuntu 24.04.4 LTS"
-NAME="Ubuntu"
-VERSION_ID="24.04"
-VERSION="24.04.4 LTS (Noble Numbat)"
-VERSION_CODENAME=noble
-ID=ubuntu
-ID_LIKE=debian
-HOME_URL="https://www.ubuntu.com/"
-SUPPORT_URL="https://help.ubuntu.com/"
-BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
-PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
-UBUNTU_CODENAME=noble
-LOGO=ubuntu-logo
+| Information      | Value                      |
+| ---------------- | -------------------------- |
+| Operating System | Ubuntu                     |
+| Pretty Name      | Ubuntu 24.04.4 LTS         |
+| Version ID       | 24.04                      |
+| Version          | 24.04.4 LTS (Noble Numbat) |
+| Version Codename | noble                      |
+| ID               | ubuntu                     |
+| ID Like          | debian                     |
+| Ubuntu Codename  | noble                      |
+| Logo             | ubuntu-logo                |
 
 ## 2. Kernel Version
 
-Linux ubuntu 6.8.0-138-generic #138-Ubuntu SMP PREEMPT_DYNAMIC Fri Jul 31 22:41:49 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+| Information  | Value                        |
+| ------------ | ---------------------------- |
+| Kernel       | Linux 6.8.0-138-generic      |
+| Build        | #138-Ubuntu                  |
+| Architecture | x86_64                       |
+| SMP          | PREEMPT_DYNAMIC              |
+| Build Date   | Fri Jul 31 22:41:49 UTC 2026 |
 
 ## 3. CPU Model
 
-Architecture:                x86_64
-  CPU op-mode(s):            32-bit, 64-bit
-  Address sizes:             39 bits physical, 48 bits virtual
-  Byte Order:                Little Endian
-CPU(s):                      1
-  On-line CPU(s) list:       0
-Vendor ID:                   GenuineIntel
-  BIOS Vendor ID:            Red Hat
-  Model name:                Intel Xeon E312xx (Sandy Bridge, IBRS update)
-    BIOS Model name:         RHEL-9.6.0 PC (Q35 + ICH9, 2009)  CPU @ 2.0GHz
-    BIOS CPU family:         1
-    CPU family:              6
-    Model:                   42
-    Thread(s) per core:      1
-    Core(s) per socket:      1
-    Socket(s):               1
-    Stepping:                1
-    BogoMIPS:                7008.00
-    Flags:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx rdtscp
-                             lm constant_tsc rep_good nopl xtopology cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popc
-                             nt tsc_deadline_timer aes xsave avx hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp tsc_adjust xsaveopt arat
-                              md_clear
-Virtualization features:
-  Hypervisor vendor:         KVM
-  Virtualization type:       full
-Caches (sum of all):
-  L1d:                       32 KiB (1 instance)
-  L1i:                       32 KiB (1 instance)
-  L2:                        4 MiB (1 instance)
-  L3:                        16 MiB (1 instance)
-NUMA:
-  NUMA node(s):              1
-  NUMA node0 CPU(s):         0
-Vulnerabilities:
-  Gather data sampling:      Not affected
-  Indirect target selection: Mitigation; Aligned branch/return thunks
-  Itlb multihit:             KVM: Mitigation: VMX unsupported
-  L1tf:                      Mitigation; PTE Inversion
-  Mds:                       Mitigation; Clear CPU buffers; SMT Host state unknown
-  Meltdown:                  Mitigation; PTI
-  Mmio stale data:           Unknown: No mitigations
-  Reg file data sampling:    Not affected
-  Retbleed:                  Not affected
-  Spec rstack overflow:      Not affected
-  Spec store bypass:         Mitigation; Speculative Store Bypass disabled via prctl
-  Spectre v1:                Mitigation; usercopy/swapgs barriers and __user pointer sanitization
-  Spectre v2:                Mitigation; Retpolines; IBPB conditional; IBRS_FW; STIBP disabled; RSB filling; PBRSB-eIBRS Not affected; BHI Retpol
-                             ine
-  Srbds:                     Not affected
-  Tsa:                       Not affected
-  Tsx async abort:           Not affected
-  Vmscape:                   Not affected
+| Information         | Value                                         |
+| ------------------- | --------------------------------------------- |
+| Architecture        | x86_64                                        |
+| CPU Mode            | 32-bit, 64-bit                                |
+| Address Sizes       | 39 bits physical, 48 bits virtual             |
+| Byte Order          | Little Endian                                 |
+| CPU(s)              | 1                                             |
+| Vendor ID           | GenuineIntel                                  |
+| BIOS Vendor         | Red Hat                                       |
+| Model Name          | Intel Xeon E312xx (Sandy Bridge, IBRS update) |
+| BIOS Model          | RHEL-9.6.0 PC (Q35 + ICH9, 2009) CPU @ 2.0GHz |
+| CPU Family          | 6                                             |
+| Model               | 42                                            |
+| Thread(s) per Core  | 1                                             |
+| Core(s) per Socket  | 1                                             |
+| Socket(s)           | 1                                             |
+| Stepping            | 1                                             |
+| BogoMIPS            | 7008.00                                       |
+| Hypervisor Vendor   | KVM                                           |
+| Virtualization Type | Full                                          |
+
+### CPU Cache
+
+| Cache |   Size |
+| ----- | -----: |
+| L1d   | 32 KiB |
+| L1i   | 32 KiB |
+| L2    |  4 MiB |
+| L3    | 16 MiB |
+
+### NUMA Information
+
+| Information        | Value |
+| ------------------ | ----- |
+| NUMA Node(s)       | 1     |
+| NUMA Node 0 CPU(s) | 0     |
 
 ## 4. CPU Cores
 
-Number of CPU Cores:1
+| Information                | Value |
+| -------------------------- | ----: |
+| Number of CPU Cores        |     1 |
+| Available Processing Units |     1 |
 
 ## 5. Total RAM
 
-               total        used        free      shared  buff/cache   available
-Mem:           1.9Gi       430Mi       852Mi       1.1Mi       788Mi       1.4Gi
-Swap:          1.0Gi          0B       1.0Gi
+| Memory |   Total |    Used |    Free |  Shared | Buff/Cache | Available |
+| ------ | ------: | ------: | ------: | ------: | ---------: | --------: |
+| RAM    | 1.9 GiB | 430 MiB | 852 MiB | 1.1 MiB |    788 MiB |   1.4 GiB |
+| Swap   | 1.0 GiB |     0 B | 1.0 GiB |       — |          — |         — |
+
 ## 6. Disk Capacity
 
-Filesystem      Size  Used Avail Use% Mounted on
-tmpfs           191M  996K  190M   1% /run
-/dev/vda1        19G  5.4G   13G  30% /
-tmpfs           952M   84K  952M   1% /dev/shm
-tmpfs           5.0M     0  5.0M   0% /run/lock
-/dev/vda16      881M  117M  703M  15% /boot
-/dev/vda15      105M  6.2M   99M   6% /boot/efi
+| Filesystem   | Size | Used | Available | Use % | Mounted On  |
+| ------------ | ---: | ---: | --------: | ----: | ----------- |
+| tmpfs        | 191M | 996K |      190M |    1% | `/run`      |
+| `/dev/vda1`  |  19G | 5.4G |       13G |   30% | `/`         |
+| tmpfs        | 952M |  84K |      952M |    1% | `/dev/shm`  |
+| tmpfs        | 5.0M |    0 |      5.0M |    0% | `/run/lock` |
+| `/dev/vda16` | 881M | 117M |      703M |   15% | `/boot`     |
+| `/dev/vda15` | 105M | 6.2M |       99M |    6% | `/boot/efi` |
 
 ## 7. Mounted File Systems
 
-sysfs on /sys type sysfs (rw,nosuid,nodev,noexec,relatime)
-proc on /proc type proc (rw,nosuid,nodev,noexec,relatime)
-udev on /dev type devtmpfs (rw,nosuid,relatime,size=954836k,nr_inodes=238709,mode=755,inode64)
-devpts on /dev/pts type devpts (rw,nosuid,noexec,relatime,gid=5,mode=620,ptmxmode=000)
-tmpfs on /run type tmpfs (rw,nosuid,nodev,noexec,relatime,size=194892k,mode=755,inode64)
-/dev/vda1 on / type ext4 (rw,relatime,discard,errors=remount-ro,commit=30)
-securityfs on /sys/kernel/security type securityfs (rw,nosuid,nodev,noexec,relatime)
-tmpfs on /dev/shm type tmpfs (rw,nosuid,nodev,inode64)
-tmpfs on /run/lock type tmpfs (rw,nosuid,nodev,noexec,relatime,size=5120k,inode64)
-cgroup2 on /sys/fs/cgroup type cgroup2 (rw,nosuid,nodev,noexec,relatime,nsdelegate,memory_recursiveprot)
-pstore on /sys/fs/pstore type pstore (rw,nosuid,nodev,noexec,relatime)
-bpf on /sys/fs/bpf type bpf (rw,nosuid,nodev,noexec,relatime,mode=700)
-systemd-1 on /proc/sys/fs/binfmt_misc type autofs (rw,relatime,fd=32,pgrp=1,timeout=0,minproto=5,maxproto=5,direct,pipe_ino=2162)
-hugetlbfs on /dev/hugepages type hugetlbfs (rw,nosuid,nodev,relatime,pagesize=2M)
-mqueue on /dev/mqueue type mqueue (rw,nosuid,nodev,noexec,relatime)
-debugfs on /sys/kernel/debug type debugfs (rw,nosuid,nodev,noexec,relatime)
-tracefs on /sys/kernel/tracing type tracefs (rw,nosuid,nodev,noexec,relatime)
-fusectl on /sys/fs/fuse/connections type fusectl (rw,nosuid,nodev,noexec,relatime)
-configfs on /sys/kernel/config type configfs (rw,nosuid,nodev,noexec,relatime)
-/dev/vda16 on /boot type ext4 (rw,relatime)
-/dev/vda15 on /boot/efi type vfat (rw,relatime,fmask=0077,dmask=0077,codepage=437,iocharset=iso8859-1,shortname=mixed,errors=remount-ro)
-binfmt_misc on /proc/sys/fs/binfmt_misc type binfmt_misc (rw,nosuid,nodev,noexec,relatime)
+| Filesystem   | Mount Point                | Type        | Options                                         |
+| ------------ | -------------------------- | ----------- | ----------------------------------------------- |
+| sysfs        | `/sys`                     | sysfs       | rw,nosuid,nodev,noexec,relatime                 |
+| proc         | `/proc`                    | proc        | rw,nosuid,nodev,noexec,relatime                 |
+| udev         | `/dev`                     | devtmpfs    | rw,nosuid,relatime                              |
+| devpts       | `/dev/pts`                 | devpts      | rw,nosuid,noexec,relatime                       |
+| tmpfs        | `/run`                     | tmpfs       | rw,nosuid,nodev,noexec,relatime                 |
+| `/dev/vda1`  | `/`                        | ext4        | rw,relatime,discard,errors=remount-ro,commit=30 |
+| securityfs   | `/sys/kernel/security`     | securityfs  | rw,nosuid,nodev,noexec,relatime                 |
+| tmpfs        | `/dev/shm`                 | tmpfs       | rw,nosuid,nodev,inode64                         |
+| tmpfs        | `/run/lock`                | tmpfs       | rw,nosuid,nodev,noexec,relatime                 |
+| cgroup2      | `/sys/fs/cgroup`           | cgroup2     | rw,nosuid,nodev,noexec,relatime                 |
+| pstore       | `/sys/fs/pstore`           | pstore      | rw,nosuid,nodev,noexec,relatime                 |
+| bpf          | `/sys/fs/bpf`              | bpf         | rw,nosuid,nodev,noexec,relatime                 |
+| systemd-1    | `/proc/sys/fs/binfmt_misc` | autofs      | rw,relatime                                     |
+| hugetlbfs    | `/dev/hugepages`           | hugetlbfs   | rw,nosuid,nodev,relatime                        |
+| mqueue       | `/dev/mqueue`              | mqueue      | rw,nosuid,nodev,noexec,relatime                 |
+| debugfs      | `/sys/kernel/debug`        | debugfs     | rw,nosuid,nodev,relatime                        |
+| tracefs      | `/sys/kernel/tracing`      | tracefs     | rw,nosuid,nodev,relatime                        |
+| fusectl      | `/sys/fs/fuse/connections` | fusectl     | rw,nosuid,nodev,relatime                        |
+| configfs     | `/sys/kernel/config`       | configfs    | rw,nosuid,nodev,relatime                        |
+| `/dev/vda16` | `/boot`                    | ext4        | rw,relatime                                     |
+| `/dev/vda15` | `/boot/efi`                | vfat        | rw,relatime                                     |
+| binfmt_misc  | `/proc/sys/fs/binfmt_misc` | binfmt_misc | rw,nosuid,nodev,noexec,relatime                 |
 
 ## 8. Hostname
 
-ubuntu
+| Information | Value    |
+| ----------- | -------- |
+| Hostname    | `ubuntu` |
 
 ## 9. IP Address
 
-172.30.1.2 172.17.0.1
+| Type         | IP Address   |
+| ------------ | ------------ |
+| IP Address 1 | `172.30.1.2` |
+| IP Address 2 | `172.17.0.1` |
 
 ## Linux Commands Used
 
-```bash
-
-cat /etc/os-release
-
-uname -a
-
-lscpu
-
-nproc
-
-free -h
-
-df -h
-
-lsblk
-
-hostname
-
-hostname -I
-
-ip addr
+| Command               | Purpose                                                 |
+| --------------------- | ------------------------------------------------------- |
+| `cat /etc/os-release` | Displays operating system information.                  |
+| `uname -a`            | Displays detailed kernel and system information.        |
+| `lscpu`               | Displays CPU architecture and processor information.    |
+| `nproc`               | Displays the number of available processing units.      |
+| `free -h`             | Displays RAM and swap memory information.               |
+| `df -h`               | Displays disk space and mounted filesystem information. |
+| `lsblk`               | Displays information about block devices and storage.   |
+| `hostname`            | Displays the hostname of the server.                    |
+| `hostname -I`         | Displays the IP addresses assigned to the system.       |
+| `ip addr`             | Displays network interfaces and IP address information. |
