@@ -65,5 +65,20 @@ AWS would be a suitable platform for a global e-commerce company because it prov
 * Amazon CloudFront
 * Amazon RDS
 
+# Multi-Cloud Decision Matrix
+
+| Business Requirement    | Recommended Platform | Justification                                                          |
+| ----------------------- | -------------------- | ---------------------------------------------------------------------- |
+| Startup Company         | AWS                  | Broad service selection and scalable infrastructure                    |
+| Enterprise Organization | AWS / Azure          | Both provide extensive enterprise services and management capabilities |
+| Microsoft Environment   | Azure                | Strong integration with Microsoft technologies                         |
+| AI / Machine Learning   | Google Cloud         | Strong AI, ML, data, and specialized computing capabilities            |
+| Kubernetes Deployment   | Google Cloud         | Google Kubernetes Engine provides managed Kubernetes                   |
+| Global Web Application  | AWS                  | Broad global infrastructure and scalable application services          |
+
+## Conclusion
+
+Cloud platform selection should be based on business requirements rather than popularity alone. Different providers have different strengths, so the best solution depends on factors such as existing technology, budget, scalability, application requirements, data, AI requirements, and geographic needs.
+
 
 
