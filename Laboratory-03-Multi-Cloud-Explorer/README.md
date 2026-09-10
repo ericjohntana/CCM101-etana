@@ -174,6 +174,11 @@ df -h
 
 # Cloud Migration Possibilities
 
+![KillerCoda Terminal](https://github.com/Jayvie03/CCM101-jlimen/blob/main/Laboratory-03-Multi-Cloud-Explorer/screenshots/checkpoint2-aws-homepage.png)
+---
+
+# Cloud Migration Possibilities
+
 If this Linux server were migrated to the cloud, it could be hosted using virtual machine services from each provider.
 
 | Cloud Provider  | Possible Service       |
