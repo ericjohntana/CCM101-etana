@@ -32,6 +32,12 @@ Laboratory-03-Multi-Cloud-Explorer/
 
 ---
 
+# Screenshot Evidence
+
+![Checkpoint1]()
+
+---
+
 # Checkpoint 2 – Cloud Platform Research
 
 I researched the following cloud providers:
@@ -172,9 +178,11 @@ df -h
 
 ---
 
-# Cloud Migration Possibilities
+# Screenshot Evidence
 
-![KillerCoda Terminal](https://github.com/Jayvie03/CCM101-jlimen/blob/main/Laboratory-03-Multi-Cloud-Explorer/screenshots/checkpoint2-aws-homepage.png)
+![KillerCoda Terminal]()
+![KillerCoda Terminal]()
+
 ---
 
 # Cloud Migration Possibilities
