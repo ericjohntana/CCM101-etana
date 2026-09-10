@@ -34,7 +34,7 @@ Laboratory-03-Multi-Cloud-Explorer/
 
 # Screenshot Evidence
 
-![Checkpoint1]()
+![Checkpoint1](https://github.com/ericjohntana/CCM101-etana/blob/main/Laboratory-03-Multi-Cloud-Explorer/screenshots/Checkpoint%201.png)
 
 ---
 
@@ -180,8 +180,8 @@ df -h
 
 # Screenshot Evidence
 
-![KillerCoda Terminal]()
-![KillerCoda Terminal]()
+![KillerCoda Terminal](https://github.com/ericjohntana/CCM101-etana/blob/main/Laboratory-03-Multi-Cloud-Explorer/screenshots/Checkpoint%207.1-%20killercoda-terminal.png)
+![KillerCoda Terminal](https://github.com/ericjohntana/CCM101-etana/blob/main/Laboratory-03-Multi-Cloud-Explorer/screenshots/Checkpoint%207.2%20-%20%20killercoda-terminal.png)
 
 ---
 
