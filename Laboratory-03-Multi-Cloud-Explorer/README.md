@@ -42,9 +42,9 @@ Laboratory-03-Multi-Cloud-Explorer/
 
 I researched the following cloud providers:
 
-1. Amazon Web Services
-2. Microsoft Azure
-3. Google Cloud Platform
+1. [Amazon Web Services](aws-research.md)
+2. [Microsoft Azure](azure-research.md)
+3. [Google Cloud Platform](gcp-research.md)
 
 The research covered their global infrastructure, management consoles, core services, advantages, and enterprise use cases.
 
