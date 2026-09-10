@@ -18,6 +18,17 @@ This laboratory introduced the basic concepts of cloud computing and provided an
 
 This laboratory focused on understanding the basic infrastructure that supports cloud computing. It involved investigating a Linux server using the KillerCoda Playground, identifying compute, storage, networking, and operating system resources, comparing the infrastructure services of AWS, Microsoft Azure, and Google Cloud Platform, and creating a simple cloud infrastructure diagram.
 
+### [Laboratory 03 – Multi-Cloud Explorer](https://github.com/ericjohntana/CCM101-etana/tree/main/Laboratory-03-Multi-Cloud-Explorer)
+
+This laboratory focused on exploring and comparing three major cloud platforms: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). It involved researching their global infrastructure, management consoles, core services, advantages, and enterprise use cases. The laboratory also included comparing equivalent cloud services, analyzing different business scenarios, recommending suitable cloud platforms, and investigating a Linux environment using the KillerCoda Playground.
+
 ### More Laboratory Activities
 
 More laboratory activities will be added throughout the semester.
+
+
+
+
+
+
+
