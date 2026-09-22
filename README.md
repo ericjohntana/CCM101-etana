@@ -22,13 +22,12 @@ This laboratory focused on understanding the basic infrastructure that supports 
 
 This laboratory focused on exploring and comparing three major cloud platforms: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). It involved researching their global infrastructure, management consoles, core services, advantages, and enterprise use cases. The laboratory also included comparing equivalent cloud services, analyzing different business scenarios, recommending suitable cloud platforms, and investigating a Linux environment using the KillerCoda Playground.
 
+### [Laboratory 04 – The Cloud-Native Engineer](https://github.com/ericjohntana/CCM101-etana/tree/main/Laboratory-04-Cloud-Native-Engineer)
+
+This laboratory focused on understanding the shift from traditional Virtual Machines (VMs) to containerization. It involved comparing VMs and containers, accessing a Docker-enabled environment using the KillerCoda Playground, executing fundamental Docker commands, and deploying an Nginx web server using a Docker container.
+
+The laboratory also covered the Docker container lifecycle, including pulling an image, running a container, checking running containers, stopping a container, and removing a container. Technical documentation, screenshots, and a reflection were included as part of the activity.
+
 ### More Laboratory Activities
 
 More laboratory activities will be added throughout the semester.
-
-
-
-
-
-
-
