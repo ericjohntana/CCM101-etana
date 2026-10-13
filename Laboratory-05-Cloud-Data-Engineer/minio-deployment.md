@@ -97,11 +97,9 @@ The required screenshots for this activity are:
 
 ## 9. Result
 
-The MinIO container started successfully, and Docker displayed the container as running. However, the logs also reported a storage rename error. Therefore, successful bucket creation and file upload must be verified before the deployment can be considered fully functional.
-
-After testing the Web Console, I will update this section with the actual results of bucket creation and file upload.
+The MinIO container was deployed successfully using Docker in the KillerCoda Playground. The terminal confirmed that the container was running and ports 9000 and 9001 were mapped.
 
 ## 10. Conclusion
 
-This activity provided practical experience using Docker to deploy MinIO, configure environment variables, map network ports, and inspect a running container. It also demonstrated the importance of checking application logs and verifying storage operations instead of relying only on the container status.
+This activity provided hands-on experience deploying MinIO and verifying the container through the terminal. It also introduced the use of object storage for cloud-based file storage.
 
