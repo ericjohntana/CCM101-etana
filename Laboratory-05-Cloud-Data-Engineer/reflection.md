@@ -1,4 +1,4 @@
-# Mission 5: The Cloud Data Engineer — Reflection
+# The Cloud Data Engineer — Reflection
 
 ## My Learning Experience
 
