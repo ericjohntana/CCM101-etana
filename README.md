@@ -28,6 +28,12 @@ This laboratory focused on understanding the shift from traditional Virtual Mach
 
 The laboratory also covered the Docker container lifecycle, including pulling an image, running a container, checking running containers, stopping a container, and removing a container. Technical documentation, screenshots, and a reflection were included as part of the activity.
 
-### More Laboratory Activities
+### [Laboratory 05 – The Cloud Data Engineer](https://github.com/ericjohntana/CCM101-etana/tree/main/Laboratory-05-Cloud-Data-Engineer)
+
+This laboratory focuses on understanding cloud storage technologies, including Block Storage, File Storage, and Object Storage. It involves researching storage types, deploying MinIO using Docker in the KillerCoda Ubuntu Playground, and learning how object storage can be used to manage files such as photos and documents.
+
+The laboratory also includes accessing the MinIO Web Console, creating a bucket named `client-photos`, uploading a sample file, documenting the deployment process, capturing screenshots, and writing a reflection about the learning experience.
+
+## More Laboratory Activities
 
 More laboratory activities will be added throughout the semester.
