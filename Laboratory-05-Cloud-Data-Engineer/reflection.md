@@ -14,6 +14,3 @@ My confidence in using the Linux command line is gradually improving through thi
 
 Overall, this activity helped me understand the basic process of deploying an object storage server using Docker. It also improved my knowledge of cloud storage and my ability to follow technical instructions. I still need more practice, especially in troubleshooting errors and verifying that the storage service works correctly, but I am becoming more comfortable using the Linux terminal.
 
-## Conclusion
-
-This laboratory activity helped me develop practical skills in Docker, MinIO, and cloud storage. I can use what I learned as a foundation for future cloud computing activities and projects.
