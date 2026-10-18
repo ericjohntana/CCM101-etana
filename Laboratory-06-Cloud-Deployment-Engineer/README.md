@@ -96,9 +96,9 @@ The `screenshots/` folder contains the evidence collected during the activity:
 
 ## Screenshots
 
-- [compose-deployment.png](screenshots/Checkpoint%204_compose-deployment.png) — Shows the running containers.
-- [nextcloud-web.png](screenshots/Checkpoint%205_nextcloud-web.png) — Shows the Nextcloud installation page.
-- [compose-teardown.png](screenshots/Checkpoint%205_compose-teardown.png) — Shows the containers being stopped and removed.
+- [compose-deployment.png](screenshots/Checkpoint%204-compose-deployment.png) — Shows the running containers.
+- [nextcloud-web.png](screenshots/Checkpoint%205-nextcloud-web.png) — Shows the Nextcloud installation page.
+- [compose-teardown.png](screenshots/Checkpoint%205-compose-teardown.png) — Shows the containers being stopped and removed.
 
 ## Conclusion
 
