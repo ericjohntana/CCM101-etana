@@ -30,9 +30,15 @@ The laboratory also covered the Docker container lifecycle, including pulling an
 
 ### [Laboratory 05 – The Cloud Data Engineer](https://github.com/ericjohntana/CCM101-etana/tree/main/Laboratory-05-Cloud-Data-Engineer)
 
-This laboratory focuses on understanding cloud storage technologies, including Block Storage, File Storage, and Object Storage. It involves researching storage types, deploying MinIO using Docker in the KillerCoda Ubuntu Playground, and learning how object storage can be used to manage files such as photos and documents.
+This laboratory focused on understanding cloud storage technologies, including Block Storage, File Storage, and Object Storage. It involved researching storage types, deploying MinIO using Docker in the KillerCoda Ubuntu Playground, and learning how object storage can be used to manage files such as photos and documents.
 
-The laboratory also includes accessing the MinIO Web Console, creating a bucket named `client-photos`, uploading a sample file, documenting the deployment process, capturing screenshots, and writing a reflection about the learning experience.
+The laboratory also included accessing the MinIO Web Console, creating a bucket named `client-photos`, uploading a sample file, documenting the deployment process, capturing screenshots, and writing a reflection about the learning experience.
+
+### [Laboratory 06 – The Cloud Deployment Engineer](https://github.com/ericjohntana/CCM101-etana/tree/main/Laboratory-06-Cloud-Deployment-Engineer)
+
+This laboratory focused on deploying a multi-tier cloud application using Docker Compose. It involved creating a `docker-compose.yml` configuration file to run Nextcloud as the web application and MariaDB as its database.
+
+The laboratory also covered two-tier architecture, connecting application and database containers, deploying and checking multiple containers, accessing the Nextcloud installation page through a browser, and shutting down the deployment. Technical documentation, screenshots, and a reflection were included to document the deployment process and the use of Infrastructure as Code (IaC).
 
 ## More Laboratory Activities
 
