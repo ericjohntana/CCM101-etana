@@ -2,22 +2,31 @@
 
 ## Overview
 
-In this activity, I used Docker Compose to run Nextcloud and MariaDB together using a file named `docker-compose.yml`.
+In this activity, I used Docker Compose to run Nextcloud and MariaDB together. I created a `docker-compose.yml` file to put the settings of both services in one place.
 
 ## The `services:` Block
 
-The `services:` block defines the containers used in the application. In my YAML file, there are two services: `database` and `app`. The `database` service uses MariaDB to store data, while the `app` service uses Nextcloud to provide the web interface.
+The `services:` block contains the two services used in this activity:
+
+- **database:** Uses MariaDB to store the data needed by Nextcloud.
+- **app:** Uses Nextcloud to provide the website that users can open through a browser using port 8080.
 
 ## Database Connection
 
-The Nextcloud container finds the MariaDB container through the `MYSQL_HOST=database` environment variable. The word `database` matches the name of the database service in the YAML file. This allows Nextcloud to connect to MariaDB through the Docker Compose network.
+Nextcloud needs a database to work properly. The `MYSQL_HOST=database` setting tells Nextcloud where to find MariaDB. The word `database` matches the database service name in the Compose file.
+
+The other settings, such as `MYSQL_DATABASE`, `MYSQL_USER`, and `MYSQL_PASSWORD`, provide the database name, username, and password used for the connection.
 
 ## Docker Run vs. Docker Compose
 
-The `docker run` command is used to create and start an individual container. In contrast, `docker-compose up -d` starts the services defined in the `docker-compose.yml` file together in the background.
+The `docker run` command is usually used to start one container at a time. Docker Compose allows me to manage multiple related services using one configuration file.
 
-In this activity, Docker Compose allowed me to start Nextcloud and MariaDB using one command. I also used `docker-compose ps` to check the containers and `docker-compose down` to stop and remove them.
+In this activity, I used `docker-compose up -d` to start Nextcloud and MariaDB. I used `docker-compose ps` to check if both services were running and `docker-compose down` to stop and remove the containers.
+
+## Infrastructure as Code (IaC)
+
+Infrastructure as Code means using a configuration file to describe how an application should be set up. In this activity, the `docker-compose.yml` file contained the settings needed to run Nextcloud and MariaDB.
 
 ## Conclusion
 
-Through this activity, I learned how Docker Compose manages multiple containers and how Nextcloud connects to its database. I also learned how to deploy, check, and stop the application using terminal commands.
+Through this activity, I learned how to use Docker Compose to run two services together. I also learned how Nextcloud connects to MariaDB and how to start, check, and stop the containers using terminal commands.
