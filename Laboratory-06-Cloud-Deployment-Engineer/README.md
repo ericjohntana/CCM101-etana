@@ -94,9 +94,11 @@ Stops and removes the containers and the Docker Compose network created for the 
 
 The `screenshots/` folder contains the evidence collected during the activity:
 
-- `compose-deployment.png` — Shows the running containers.
-- `nextcloud-web.png` — Shows the Nextcloud installation page.
-- `compose-teardown.png` — Shows the containers being stopped and removed.
+## Screenshots
+
+- [compose-deployment.png](screenshots/Checkpoint%204_compose-deployment.png) — Shows the running containers.
+- [nextcloud-web.png](screenshots/Checkpoint%205_nextcloud-web.png) — Shows the Nextcloud installation page.
+- [compose-teardown.png](screenshots/Checkpoint%205_compose-teardown.png) — Shows the containers being stopped and removed.
 
 ## Conclusion
 
