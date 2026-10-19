@@ -32,7 +32,7 @@ The following log entry shows the request to a nonexistent page.
 
 Application logs are vital for troubleshooting because they record HTTP requests and errors that help identify what happened when a problem occurred. They allow engineers to investigate failed requests and determine the next steps toward resolving an issue.
 
-![Docker Logs](screenshots/Checkpoint%204_docker-logspng)
+![Docker Logs](screenshots/Checkpoint%204_docker-log.png)
 
 ## Real-Time Container Metrics
 
