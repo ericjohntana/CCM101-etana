@@ -40,6 +40,12 @@ This laboratory focused on deploying a multi-tier cloud application using Docker
 
 The laboratory also covered two-tier architecture, connecting application and database containers, deploying and checking multiple containers, accessing the Nextcloud installation page through a browser, and shutting down the deployment. Technical documentation, screenshots, and a reflection were included to document the deployment process and the use of Infrastructure as Code (IaC).
 
+### [Laboratory 07 – The Cloud Operations Engineer](https://github.com/ericjohntana/CCM101-etana/tree/main/Laboratory-07-Cloud-Operations-Engineer)
+
+This laboratory focused on monitoring a Linux host and observing the performance of a containerized web application. It involved checking RAM, disk capacity, and CPU activity using Linux commands in the KillerCoda Playground.
+
+The laboratory also included deploying an Nginx web server using Docker, generating successful HTTP requests and a 404 error, analyzing application logs, and monitoring real-time container resource usage with `docker stats`. System reports, observability documentation, screenshots, and a reflection were prepared to demonstrate the importance of monitoring and troubleshooting in cloud operations.
+
 ## More Laboratory Activities
 
 More laboratory activities will be added throughout the semester.
