@@ -1,4 +1,4 @@
-# Laboratory 9 – Mission Reflection
+# Mission 9 – Reflection
 
 Completing Laboratory 9 helped me understand the importance of automation in cloud computing. When managing hundreds of cloud servers, performing tasks manually takes a lot of time and can lead to human errors. Automation makes these tasks faster and more consistent. Using Bash scripts and Cron jobs, administrators can schedule repetitive tasks such as backups without needing to execute commands manually every time.
 
