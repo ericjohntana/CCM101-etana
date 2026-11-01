@@ -8,8 +8,6 @@ The activity involves creating a sample application data directory, writing a Ba
 
 ## Objectives
 
-At the end of this laboratory activity, you should be able to:
-
 - Understand the fundamental syntax of a Bash shell script, including variables and basic commands.
 - Use a command-line text editor (nano) to write and save executable scripts.
 - Modify Linux file permissions using the chmod command.
