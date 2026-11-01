@@ -104,7 +104,7 @@ Shows the running Nginx application using Docker.
 
 ![Firewall Activated](screenshots/Checkpoint%204%20-%20firewall-activated.png)
 
-Shows the active UFW firewall with SSH allowed and incoming connections denied by default.
+Shows the active UFW status with SSH allowed and incoming connections denied by default.
 
 ### 3. Firewall Port Allowed
 
