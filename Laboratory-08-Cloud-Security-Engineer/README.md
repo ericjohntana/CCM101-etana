@@ -100,4 +100,5 @@ Displays the firewall rules with numbers to verify the allowed ports and connect
 | [firewall-activated.png](screenshots/Checkpoint20%420%-20%firewall-activated.png) | Shows the active UFW firewall. |
 | [firewall-port-allowed.png](screenshots/Checkpoint20%520%-20%firewall-port-allowed.png) | Shows the allowed firewall ports and successful Nginx response. |
 
+
 This laboratory activity provided practical experience in securing a cloud server using UFW. It demonstrated the importance of controlling incoming network traffic, allowing only necessary services, and reducing the attack surface of a server.
