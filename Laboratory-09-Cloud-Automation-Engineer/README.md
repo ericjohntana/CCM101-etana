@@ -130,7 +130,7 @@ Displays the installed Cron configuration to confirm that the daily backup sched
 
 This screenshot shows the successful execution of the Bash backup script and the generated compressed backup file.
 
-![Backup Script Execution](screenshots/Checkpoint20%420%-20%script-execution.png)
+![Backup Script Execution](screenshots/Checkpoint%204%20-%20script-execution.png)
 
 ### 2. Cron Schedule Configuration
 
