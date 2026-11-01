@@ -52,6 +52,12 @@ This laboratory focused on securing an Ubuntu server using UFW (Uncomplicated Fi
 
 The laboratory also included configuring firewall rules to allow SSH connections, deny incoming traffic by default, allow outgoing traffic, and permit TCP port 8080 for the Nginx application. Firewall configurations, command outputs, screenshots, and a reflection were prepared to demonstrate the importance of server security and network access control.
 
+### [Laboratory 09 – The Cloud Automation Engineer](https://github.com/ericjohntana/CCM101-etana/tree/main/Laboratory-09-Cloud-Automation-Engineer)
+
+This laboratory focused on automating system administration tasks using Bash shell scripting and Linux Cron scheduling. It involved creating a sample application data directory, writing a Bash script to automatically compress and back up the data, and assigning executable permissions using the `chmod` command.
+
+The laboratory also included configuring a Cron job to execute the backup script automatically every night at 2:00 AM, verifying the generated compressed backup file, and documenting the automation process. Screenshots, technical documentation, and a reflection were prepared to demonstrate the importance of automation in cloud operations.
+
 ## More Laboratory Activities
 
 More laboratory activities will be added throughout the semester.
