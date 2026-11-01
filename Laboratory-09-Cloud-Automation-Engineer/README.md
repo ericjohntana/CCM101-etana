@@ -136,7 +136,7 @@ This screenshot shows the successful execution of the Bash backup script and the
 
 This screenshot shows the installed Cron schedule configured to execute the backup script every day at 2:00 AM.
 
-![Cron Schedule Configuration](screenshots/Checkpoint20%520%-20%cron-schedule.png)
+![Cron Schedule Configuration](screenshots/Checkpoint%205%20-%20cron-schedule.png)
 
 ---
 
