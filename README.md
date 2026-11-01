@@ -46,6 +46,12 @@ This laboratory focused on monitoring a Linux host and observing the performance
 
 The laboratory also included deploying an Nginx web server using Docker, generating successful HTTP requests and a 404 error, analyzing application logs, and monitoring real-time container resource usage with `docker stats`. System reports, observability documentation, screenshots, and a reflection were prepared to demonstrate the importance of monitoring and troubleshooting in cloud operations.
 
+### [Laboratory 08 – The Cloud Security Engineer](https://github.com/ericjohntana/CCM101-etana/tree/main/Laboratory-08-Cloud-Security-Engineer)
+
+This laboratory focused on securing an Ubuntu server using UFW (Uncomplicated Firewall). It involved deploying an Nginx web application using Docker, examining the server's attack surface, and understanding the Principle of Least Privilege and Default Deny policy.
+
+The laboratory also included configuring firewall rules to allow SSH connections, deny incoming traffic by default, allow outgoing traffic, and permit TCP port 8080 for the Nginx application. Firewall configurations, command outputs, screenshots, and a reflection were prepared to demonstrate the importance of server security and network access control.
+
 ## More Laboratory Activities
 
 More laboratory activities will be added throughout the semester.
