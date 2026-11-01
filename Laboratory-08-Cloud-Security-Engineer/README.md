@@ -94,8 +94,20 @@ Displays the firewall rules with numbers to verify the allowed ports and connect
 
 ## Screenshots
 
-| Screenshot | Description |
-|---|---|
-| [vulnerable-app-running.png](screenshots/Checkpoint20%320%-20%vulnerable-app-running.png) | Shows the running Nginx application. |
-| [firewall-activated.png](screenshots/Checkpoint20%420%-20%firewall-activated.png) | Shows the active UFW firewall. |
-| [firewall-port-allowed.png](screenshots/Checkpoint20%520%-20%firewall-port-allowed.png) | Shows the allowed firewall ports and successful Nginx response. |
+### 1. Nginx Application Running
+
+![Nginx Application Running](screenshots/Checkpoint%203%20-%20vulnerable-app-running.png)
+
+Shows the running Nginx application using Docker.
+
+### 2. Firewall Activated
+
+![Firewall Activated](screenshots/Checkpoint%204%20-%20firewall-activated.png)
+
+Shows the active UFW firewall with SSH allowed and incoming connections denied by default.
+
+### 3. Firewall Port Allowed
+
+![Firewall Port Allowed](screenshots/Checkpoint%205%20-%20firewall-port-allowed.png)
+
+Shows the allowed ports, including SSH and TCP port 8080, and the successful Nginx response.
