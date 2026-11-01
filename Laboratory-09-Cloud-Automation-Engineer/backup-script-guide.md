@@ -128,13 +128,13 @@ The final `crontab -l` command displayed the installed schedule:
 
 This screenshot shows the permission-denied attempt, the execution permission command, the successful backup script execution, and the generated compressed backup file.
 
-![Backup Script Execution](screenshots/Checkpoint20%420%-20%script-execution.png)
+![Backup Script Execution](screenshots/Checkpoint%204%20-%20script-execution.png)
 
 ### Cron Schedule Configuration
 
 This screenshot shows the installed Cron schedule for automatically running the backup script every day at 2:00 AM.
 
-![Cron Schedule](screenshots/Checkpoint20%520%-20%cron-schedule.png)
+![Cron Schedule Configuration](screenshots/Checkpoint%205%20-%20cron-schedule.png)
 
 ## 7. Lesson Learned
 
