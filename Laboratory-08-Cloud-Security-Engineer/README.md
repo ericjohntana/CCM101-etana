@@ -6,13 +6,12 @@ This laboratory activity focuses on securing an Ubuntu server using UFW (Uncompl
 
 ## Objectives
 
-- Understand the Principle of Least Privilege.
-- Identify the attack surface of a virtual machine.
-- Understand the Default Deny firewall policy.
-- Deploy an Nginx web application using Docker.
-- Configure and activate UFW.
-- Allow SSH and TCP port 8080.
-- Document firewall configurations using Markdown.
+- Understand the concept of the Attack Surface and the Principle of Least Privilege (PoLP).
+- Perform a basic security audit of active network ports on a Linux server. 
+- Configure the Uncomplicated Firewall (UFW) with a Default Deny policy. 
+- Implement granular port management to selectively allow SSH and HTTP traffic. 
+- Document firewall rules and security best practices using Markdown. 
+- Continue expanding your professional GitHub Cloud Computing Portfolio. 
 
 ## Commands Executed
 
