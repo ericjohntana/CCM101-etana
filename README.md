@@ -58,6 +58,10 @@ This laboratory focused on automating system administration tasks using Bash she
 
 The laboratory also included configuring a Cron job to execute the backup script automatically every night at 2:00 AM, verifying the generated compressed backup file, and documenting the automation process. Screenshots, technical documentation, and a reflection were prepared to demonstrate the importance of automation in cloud operations.
 
+### [Laboratory 10 – The Enterprise Cloud Architect](https://github.com/ericjohntana/CCM101-etana/tree/main/Laboratory-10-Enterprise-Cloud-Architect)
+
+This laboratory focused on designing, deploying, securing, automating, and documenting a complete enterprise cloud infrastructure. It involved planning a custom cloud architecture, provisioning an Ubuntu Server virtual machine, and configuring Docker and Docker Compose to deploy a multi-tier containerized application with persistent storage.
+
 ## More Laboratory Activities
 
 More laboratory activities will be added throughout the semester.
