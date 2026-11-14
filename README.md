@@ -64,4 +64,4 @@ This laboratory focused on designing, deploying, securing, automating, and docum
 
 ## More Laboratory Activities
 
-More laboratory activities will be added throughout the semester.
+All ten laboratory activities have been completed and documented throughout the semester.
